@@ -1,0 +1,7 @@
+streamlit
+numpy
+opencv-python-headless
+pandas
+plotly
+imageio
+imageio-ffmpeg
